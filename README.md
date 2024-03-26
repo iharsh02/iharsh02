@@ -21,12 +21,7 @@ I'm a Web dev. based in India. I'm passionate about Coding and love to play game
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iharsh02-green)](https://www.linkedin.com/in/iharsh02/)
 [![Twitter](https://img.shields.io/badge/Twitter-Iharsh02-blue)](https://twitter.com/iharsh02)
 
-### 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iharsh02&show_icons=true&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh02&layout=compact)
-
-### Visitor Count
-[![](https://visitcount.itsvg.in/api?id=iharsh02&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 
 
