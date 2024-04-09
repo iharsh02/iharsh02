@@ -1,26 +1,34 @@
-# Hello, I'm Harsh Thakur! 👋
+# Hello, I'm Harsh Thakur!  
+“Weaving Code Webs, Just Like Spidey!” 🕸️
 
-### 💫About Me
+ ### FULL-STACK DEVELOPER
+Creating web applications, fixing the web, and contributing to open-source projects.
+<div align="left">
+  <h4>Languages:</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-I'm a Web dev. based in India. I'm passionate about Coding and love to play games in my free time.
+###
 
-### 💻 Skills
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-### 🌐 Connect with Me 
+<div align="left">
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-ZLTV&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Iharsh02-red)](https://github.com/iharsh02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iharsh02-green)](https://www.linkedin.com/in/iharsh02/)
-[![Twitter](https://img.shields.io/badge/Twitter-Iharsh02-blue)](https://twitter.com/iharsh02)
 
+
+</div>
+
+
+
+
+
+
+Connect with Me :- [GitHub](https://github.com/iharsh02) [LinkedIn](https://www.linkedin.com/in/iharsh02/) [Twitter](https://twitter.com/iharsh02)
 
 
 
