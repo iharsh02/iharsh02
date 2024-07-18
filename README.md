@@ -16,7 +16,7 @@ Creating web applications, fixing the web, and contributing to open-source proje
 
 
 <div align="left">
-  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=C-ZLTV&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iharsh02&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
 </div>
 
 
@@ -28,7 +28,7 @@ Creating web applications, fixing the web, and contributing to open-source proje
 
 
 
-Connect with Me :- [GitHub](https://github.com/iharsh02) [LinkedIn](https://www.linkedin.com/in/iharsh02/) [Twitter](https://twitter.com/iharsh02)
+Connect with Me :-  [LinkedIn](https://www.linkedin.com/in/iharsh02/) [Twitter](https://twitter.com/iharsh02)
 
 
 
